@@ -13,7 +13,9 @@ Our goal is to KILL0 three 0's five 0's ten 0's and see how many 0's we can kill
 To enhance user trust, developers give up contractual ownership and the pool is locked in for 34 years.
 
 KILL0 Address:  0xb0dbf009458759b7d5905d889e873b6127567958
+
 BSC: https://bscscan.com/token/0xb0dbf009458759b7d5905d889e873b6127567958
+
 SHIB: 0x2859e4544C4bB03966803b044A93563Bd2D0DD4D  (HOLD  bonus SHIB )
 
 Warm tips: the no.1 and no.2 robots have been automatically killed during launch and destroyed permanently
